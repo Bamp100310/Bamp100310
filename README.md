@@ -1,12 +1,12 @@
 # ¡Hola, mundo! Soy Alejo Muñoz 🌌
-
-> "La vida antes de la muerte. La fuerza antes que la debilidad. El viaje antes que el destino." — **El Mantra de los Nacidos de la Bruma**
+<img src="https://i.gifer.com/xK.gif" alt="Descripción del GIF" width="500"/>
+> "Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino." — **El Archivo de Las Tormentas**
 
 ## Sobre mí
 
-¡Bienvenido a mi rincón en GitHub! Soy un apasionado de la tecnología y la fantasía, especialmente del universo del **Cosmere** creado por Brandon Sanderson. Cuando no estoy explorando mundos ficticios, me encontrarás construyendo estructuras épicas en **Minecraft** 🛠️ o desentrañando los misterios del hardware de los computadores 🖥️.
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado de la tecnología y la fantasía, especialmente del universo del **Cosmere** creado por Brandon Sanderson. Cuando no estoy explorando mundos ficticios, me encontrarás construyendo estructuras épicas o mods en **Minecraft** 🛠️ o desentrañando los misterios del hardware de los computadores 🖥️.
 
-- **Universidad**: Estudiante en la **Universidad Nacional** 🎓
+- **Universidad**: Estudiante en la **Universidad Nacional de Colombia** 🎓🟩🇨🇴
 - **Intereses**: Inteligencia Artificial 🤖, Desarrollo de Software 💻, Hardware de Computadores 🔧
 
 ## Tecnologías y Herramientas
@@ -23,14 +23,12 @@
 
 ## Proyectos Destacados
 
-- [**Automatización de Tareas con Python**](https://github.com/tu-usuario/proyecto-automatizacion): Scripts diseñados para simplificar procesos repetitivos y aumentar la productividad. ¡Porque incluso los **Nacidos de la Bruma** aprecian la eficiencia! ⚙️
-
-- [**Sitio Web Personal**](https://github.com/tu-usuario/sitio-web-personal): Mi portal personal creado con HTML, CSS y JavaScript, donde comparto mis proyectos y pensamientos. Un lugar donde la magia del Cosmere se encuentra con la tecnología moderna. 🌐
+- [**Sitio Web sobre Urithiru**]([https://github.com/tu-usuario/proyecto-automatizacion](https://bamp100310.github.io/)): Mi primera página web desarrolada desarrolada como parte de una de las asignaturas de mi universidad. 🌐
 
 ## Contacto
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-- [![Correo](https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-correo@example.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/brayan-mu%C3%B1oz-42042a1a6/))
+- [![Correo](https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bmunozp@unal.edu.co)
 
 ---
 
