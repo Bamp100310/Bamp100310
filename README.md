@@ -26,6 +26,7 @@
 ## Proyectos Destacados
 
 - [**Sitio Web sobre Urithiru**](https://github.com/Bamp100310/Bamp100310.github.io): Mi primera página web desarrolada desarrolada como parte de una de las asignaturas de mi universidad. 🌐
+- [**Boxy**](https://github.com/adrianram21/ingenieria_de_software_1): Un gestor de inventarios básic. 🔧
 
 ## Contacto
 
