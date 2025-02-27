@@ -2,7 +2,7 @@
 
 ![GIF by: Dagdalmeena](https://i.gifer.com/xK.gif)
 
-> "Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino." — **El Archivo de Las Tormentas**
+> "Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino." — **Brandon Sanderson. El Archivo de Las Tormentas.**
 
 ## Sobre mí
 
@@ -25,7 +25,7 @@
 
 ## Proyectos Destacados
 
-- [**Sitio Web sobre Urithiru**]([https://github.com/tu-usuario/proyecto-automatizacion](https://bamp100310.github.io/)): Mi primera página web desarrolada desarrolada como parte de una de las asignaturas de mi universidad. 🌐
+- [**Sitio Web sobre Urithiru**](https://github.com/Bamp100310/Bamp100310.github.io): Mi primera página web desarrolada desarrolada como parte de una de las asignaturas de mi universidad. 🌐
 
 ## Contacto
 
