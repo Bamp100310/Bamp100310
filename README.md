@@ -1,5 +1,7 @@
 # ¡Hola, mundo! Soy Alejo Muñoz 🌌
-<img src="https://i.gifer.com/xK.gif" alt="Descripción del GIF" width="500"/>
+
+![GIF by: Dagdalmeena](https://i.gifer.com/xK.gif)
+
 > "Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino." — **El Archivo de Las Tormentas**
 
 ## Sobre mí
